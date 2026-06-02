@@ -1,0 +1,2 @@
+# virtual-idol-concert-planning-minutes
+虚拟偶像演唱会策划会跨次元纪要全栈系统——前端显示角色模型与舞台设计，后端处理制作人会议，Whisper转写动作捕捉与歌单，pyannote标记角色中之人与技术美术，OpenAI生成演出Rundown与互动环节脚本摘要，Markdown邮件发给运营团队
