@@ -1,0 +1,5 @@
+openai-whisper>=20231117
+pyannote.audio>=3.0.0
+torch>=2.0.0
+torchaudio>=2.0.0
+sqlite3
